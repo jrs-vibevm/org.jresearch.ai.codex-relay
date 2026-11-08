@@ -1,27 +1,27 @@
 {
   "disclosure": "public-source",
   "package": "org.jresearch.ai/codex-relay",
-  "payload_sha256": "1a50d158976e3dc6b7f0a0538837d41ea53ebd5fab799f796ec39323ab255435",
+  "payload_sha256": "07875a554d355e80b4b4eedfa6da81fcab70aee851a343e960bbcaeaaa2831b2",
   "schema": 1,
   "sha256": {
     "LICENSE": "2d6597c764cef32cb7d7435fcb7d742767ee219f52094ddcb4f8c655ecfb8bd2",
     "LICENSES.json": "618ec7cb12cb12d73810f787c0389a27ac73c22c164a261b5d51711140e9dd15",
-    "README.md": "381b42c9317c351fe3341380a5903f89306b1353e456cfed5793ecfaa8920122",
+    "README.md": "92fe63079d6e94d013204d280baf5ea627d6fcbf2785a2b35bd1c4d6f6f72cba",
     "skill/LICENSE": "2d6597c764cef32cb7d7435fcb7d742767ee219f52094ddcb4f8c655ecfb8bd2",
-    "skill/PROVENANCE.json": "fec822867856811cb876e3836ce112a9b790371b60fc192aca2ed8da5ce197f4",
-    "skill/SKILL.md": "de0f92642219dda3c8a884b530de250d97b3a06a79840197c2434451ec5796d7",
+    "skill/PROVENANCE.json": "55a27953363561a7d6f42644841f9bbd66317e672b34d05ffb9b789e6c7784f8",
+    "skill/SKILL.md": "11160211e9027d75bcbcc1076bbd9569f2db6c668e0b682de1d84b2e5f8d9e68",
     "skill/references/compatibility.md": "2c0007f48079712af98ece3abf5253c9a1534c8bdf09ef82694d09660bfd8ace",
     "skill/references/diagnostics.md": "b55128c85bf6bdde534673f5e36a5b7a974c510901771acfd992778f58fda3c9",
-    "skill/references/examples.md": "de7b5d7fc8b204f1f7eae00733860f937068797c1976d5920ebdf8e575fe5171",
+    "skill/references/examples.md": "dd2a59fd5df848c59fad070aab5527897ca5d4bda48a00fb5bfa28b7373da5b0",
     "skill/references/installation.md": "283135f9f71e5c34a698af43763ee44e1692b69bb7f6354a7786c022a1fc3763",
     "skill/references/product/contract.json": "a70eaee4d2e1174a51f27438e5dcbd99ec2501578940ab98c32e5eaa0769633c",
     "skill/references/product/github-authority-v1.json": "b4a7c7561ca8697e3b00df21c8c624d59d6cb5f3f2f56bde35d7ed6bdd161874",
     "skill/references/product/github-authority-v4.json": "90ba19712e64138c605c9efee74d9dd8d60779bb6741bfbb3149424a585037a5",
     "skill/references/product/vibevm.json": "e94f71443661ce06fcdef0167900a6ed5efc38d97eca48423b8eb73fda18417a",
     "skill/references/shared-protocols.md": "dec359121862cdfed0f9f348e11c50765928ce83e8df4549d95420527ca1930f",
-    "skill/references/workflow.md": "f8b9def184d727bfd5e94a4e2c12ee2d7713a1f95ac8fbf69fed8bbfc22b576a",
+    "skill/references/workflow.md": "2da6ecdf8fec2633d1e308c22b9634b9fd02b670bd5d2ec7f88b061bf967a3f1",
     "vibe.lock": "e5a24c2b8ed5224001851f3a6081866bad9fdaabefe98dbe9f833fd5d6e9fb4e",
-    "vibe.toml": "387cd5173afb301bcaac881c929bafee6af324765e575c971e8b879535c3c8de",
+    "vibe.toml": "5970836a8b7e1bdfba8573a6c6a906c4a0ebeaec3ae147e89c41ebf8f3003f2c",
     "vibevm/vibedeps/org.jresearch.ai.development-governance/5.0.0/.vibe-slot.toml": "84246572b9301c0e9714b07a2c818db753d9af5f81e609cad78ee6ae6d51fa94",
     "vibevm/vibedeps/org.jresearch.ai.development-governance/5.0.0/CHANGELOG.md": "3ed7cbc90cca1b856df14a8fb810d7812fa73b7c144683abfc9c1fa65419a10e",
     "vibevm/vibedeps/org.jresearch.ai.development-governance/5.0.0/DISTRIBUTION.json": "45f43dcdb48ff9dfcfc114284cd8c25bdeda3f870883633f08057504edf98bc9",
@@ -47,6 +47,6 @@
     "vibevm/vibespecs/boot/codex-relay.md": "8d617e81d7ab9b596a1bada45137566a57d79a53358dd830b63febf17de5817e"
   },
   "source_path": "guidance/artifacts/vpm",
-  "source_revision": "b6edaaf4982df5b7dd6d56fd68b7ce7e34ccd7a9",
-  "version": "4.1.0"
+  "source_revision": "512b2b5ea2867b92958580f17f6aee24c23b1fba",
+  "version": "4.1.1"
 }
